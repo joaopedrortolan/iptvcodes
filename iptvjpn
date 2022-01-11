@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,JP:NHKG HDhttp://50.7.74.29:8880/hls/j00033/index.m3u8
-#EXTINF:-1,JP:NHKG 中央 HDhttp://203.162.235.41:16903
-#EXTINF:-1,JP:NHKG 南 HDhttp://50.7.74.29:8880/hls/j00032/index.m3u8
-#EXTINF:-1,JP:MBS HDhttp://50.7.74.29:8880/hls/j00038/index.m3u8
-#EXTINF:-1,JP:TV OSAKA HDhttp://50.7.74.29:8880/hls/j00013/index.m3u8
-#EXTINF:-1,JP:TV ASAHI HDhttp://50.7.74.29:8880/hls/j00048/index.m3u8
-#EXTINF:-1,JP:TBS TV HDhttp://50.7.74.29:8880/hls/100051/index.m3u8
-#EXTINF:-1,JP:TV TOKYO HDhttp://50.7.74.29:8880/hls/100050/index.m3u8
-#EXTINF:-1,JP:FUJITV HDhttp://50.7.74.29:8880/his/j00049/index.m3u8
-#EXTINF:-1,JP:MBS HDhttp://50.7.74.29:8880/hls/j00038/index.m3u8
-#EXTINF:-1,JP:NIPPON TV HDhttp://50.7.74.29:8880/hlsok/j00004/index.m3u8
-#EXTINF:-1,JP:TOKYOMX1 HDhttp://50.7.74.29:8880/hls/j00030/index.m3u8
-#EXTINF:-1,JP:TOKYOMX2 HDhttps://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:-1,JP:ANIMAX HDhttp://50.7.74.29:8880/hls/j00026/index.m3u8
+#EXTINF:-1,JP:NHKG HD http://50.7.74.29:8880/hls/j00033/index.m3u8
+#EXTINF:-1,JP:NHKG 中央 HD http://203.162.235.41:16903
+#EXTINF:-1,JP:NHKG 南 HD http://50.7.74.29:8880/hls/j00032/index.m3u8
+#EXTINF:-1,JP:MBS HD http://50.7.74.29:8880/hls/j00038/index.m3u8
+#EXTINF:-1,JP:TV OSAKA HD http://50.7.74.29:8880/hls/j00013/index.m3u8
+#EXTINF:-1,JP:TV ASAHI HD http://50.7.74.29:8880/hls/j00048/index.m3u8
+#EXTINF:-1,JP:TBS TV HD http://50.7.74.29:8880/hls/100051/index.m3u8
+#EXTINF:-1,JP:TV TOKYO HD http://50.7.74.29:8880/hls/100050/index.m3u8
+#EXTINF:-1,JP:FUJITV HD http://50.7.74.29:8880/his/j00049/index.m3u8
+#EXTINF:-1,JP:MBS HD http://50.7.74.29:8880/hls/j00038/index.m3u8
+#EXTINF:-1,JP:NIPPON TV HD http://50.7.74.29:8880/hlsok/j00004/index.m3u8
+#EXTINF:-1,JP:TOKYOMX1 HD http://50.7.74.29:8880/hls/j00030/index.m3u8
+#EXTINF:-1,JP:TOKYOMX2 HD https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1,JP:ANIMAX HD http://50.7.74.29:8880/hls/j00026/index.m3u8
